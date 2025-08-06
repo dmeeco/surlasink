@@ -23,7 +23,7 @@
   ],
   "kv_namespaces": [
     {
-      "binding": "shorturlana",
+      "binding": "KV",
       "id": "ee31fbdfe39547648e4eabf9546da2fa" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
